@@ -1,5 +1,23 @@
-# Sample localization file for English. Add more files in this directory for other locales.
-# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
-
 en:
-  hello: "Hello world"
+  spree:
+    add_to_cart: Add to cart
+    change_my_password: Change my password
+    checkout: Checkout
+    continue_shopping: Continue shopping
+    coupon_code: Coupon code
+    empty_cart: Empty cart
+    forgot_password: Forgot password
+    guest_user_account: Guest user account
+    login: Login
+    login_as_existing: Login as existing
+    logout: Logout
+    my_account: My account
+    new_customer: New customer
+    or: or
+    place_order: Place order
+    registration: Registration
+    save_and_continue: Save and continue
+    search: Search
+    shop: Shop
+    shop_by_taxonomy: Shop by taxonomy
+    update: Update
